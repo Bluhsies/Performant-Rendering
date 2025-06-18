@@ -1,0 +1,17 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+Draw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,78,2298533177,11.407318,892896,2574,220,11239445,78793.841003
+SeventhTopCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,371,56707,0.000281,309,183,150,330,34.879012
+RPass,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,49,6132003898,30.432330,6390,959625,4428,151955258,3838283.916622
+AsteriodBelt::onRender,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,304,6139277558,30.468428,426,14411449,12300293,153650381,10385676.625567
+FourthQuadDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,326,133651,0.000663,309,432,351,2615,143.101465
+UBO,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\buffers\UBOmanager.cpp,23,10217944,0.050710,6390,1599,190,158658,4192.791055
+tracy::GpuCtx::Collect,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\build\_deps\tracy-src\public\tracy/TracyOpenGL.hpp,144,361637539,1.794760,426,848914,558612,1638546,91968.033931
+CloseTargetQuads,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,404,234074,0.001162,309,757,661,2766,153.390904
+TargetCircles,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,388,161885,0.000803,309,523,461,1653,97.705262
+Actor,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,71,5992031705,29.737667,893748,6704,200,11246930,79758.938828
+CloseShipCircles,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,396,101230,0.000502,309,327,100,741,173.450964
+UIBegin,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,312,338842,0.001682,426,795,60,4559,1188.978055
+Material,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\rendering\material.cpp,32,2980669162,14.792670,892896,3338,291,3232838,11470.189333
+TenthBottomCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,353,63660,0.000316,309,206,180,421,24.525629
+Run,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,9194111842,45.629170,426,21582422,14661950,296134403,15682135.379236
+AsteriodBelt::onUpdate,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,420,2150591061,10.673101,426,5048335,70,10620210,3133566.093452

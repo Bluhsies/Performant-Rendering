@@ -1,0 +1,4 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+Run,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,5374625017,34.331284,316,17008307,8082021,152654995,8019966.024819
+AsteriodBelt::onRender,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,304,5009866725,32.001331,316,15854008,7418020,48848019,2426449.815117
+AsteriodBelt::onUpdate,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,406,50182,0.000321,317,158,60,661,75.088092

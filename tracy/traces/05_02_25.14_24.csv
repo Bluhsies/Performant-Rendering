@@ -1,0 +1,11 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+UIBegin,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,312,705582,0.002233,1355,520,260,4909,561.242856
+TargetCircles,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,388,666361,0.002109,1252,532,471,1002,67.648531
+AsteriodBelt::onRender,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,304,11349301550,35.914677,1355,8375868,7095113,199588915,6218679.157413
+CloseTargetQuads,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,404,1121815,0.003550,1252,896,661,3527,223.223118
+Run,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,20914114627,66.182370,1355,15434770,8285442,200300796,7290009.256628
+FourthQuadDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,326,604399,0.001913,1252,482,370,12343,474.254278
+TenthBottomCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,353,278869,0.000882,1252,222,180,1513,48.725622
+SeventhTopCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,371,299713,0.000948,1252,239,160,6973,320.713936
+CloseShipCircles,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,396,881311,0.002789,1252,703,220,10289,485.431588
+AsteriodBelt::onUpdate,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,420,8464182893,26.784767,1355,6246629,110,10239079,1837496.403503

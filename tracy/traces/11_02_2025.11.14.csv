@@ -1,0 +1,11 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+Draw,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,78,94509643,0.817762,298178,316,40,4023429,7978.026446
+RPass,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,49,520534868,4.504022,2130,244382,315,279177235,6230297.345284
+AsteriodBelt::onRender,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,304,521067937,4.508634,142,3669492,595532,284741044,24435574.332888
+UBO,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\buffers\UBOmanager.cpp,23,3773211,0.032648,2131,1770,34,781391,19595.387881
+tracy::GpuCtx::Collect,H:/Year 3/PerformantRendering/cw24-Bluhzies/build/_deps/tracy-src/public\tracy/TracyOpenGL.hpp,144,58432003,0.505593,142,411492,303571,694674,43751.063953
+Actor,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,71,512223518,4.432106,298464,1716,51,5521118,29469.258962
+UIBegin,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,312,135942,0.001176,142,957,449,2134,289.353424
+Material,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\material.cpp,32,355116013,3.072705,298179,1190,71,5492951,27086.503255
+Run,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,5368415333,46.451180,142,37805741,31888364,401366793,30731050.265896
+AsteriodBelt::onUpdate,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,420,23859,0.000206,143,166,62,376,58.751626

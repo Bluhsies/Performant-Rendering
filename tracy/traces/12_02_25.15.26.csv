@@ -1,0 +1,19 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+OnRender,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,336,2333922194,2.905664,2468,945673,776210,123873481,3012086.276
+onImGUIRender,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,493,2911633,0.003625,2468,1179,855,9645,324.951969
+Material,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\material.cpp,32,1127857020,1.404149,5162161,218,118,426187,567.194803
+UBO,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\buffers\UBOmanager.cpp,23,16798273,0.020913,37020,453,27,142216,1723.407396
+Entity,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,77,2182215376,2.716793,5162161,422,274,48017317,21175.21409
+Draw,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,91,360926538,0.449343,5162161,69,35,47863244,21072.02546
+TenthBottomCircleDraw,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,385,128669,0.00016,2397,53,15,680,20.355706
+CloseShipCircles,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,428,409409,0.00051,2397,170,18,1265,105.3282
+CloseTargetQuads,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,436,311187,0.000387,2397,129,29,1403,64.794873
+Material,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,81,1918814897,2.388868,5162161,371,239,47963829,21139.25345
+FourthQuadDraw,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,358,142404,0.000177,2397,59,26,1260,33.363662
+UIBegin,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,344,183251,0.000228,2468,74,12,4575,193.391099
+Run,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,74878767844,93.221843,2468,30339857,26405241,124284125,2828995.378
+OnUpdate,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,452,834940242,1.039476,2468,338306,74,1120020,72265.54895
+CheckWaypointCollision,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,516,216439698,0.269461,2397,90296,80051,425616,11960.653
+RPass,H:\Year 3\PerformantRendering\cw24-Bluhzies\DemonRenderer\src\rendering\renderer.cpp,52,2314032812,2.880902,37020,62507,780,123103875,803932.7049
+SeventhTopCircleDraw,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,403,125359,0.000156,2397,52,12,469,14.934847
+TargetCircles,H:\Year 3\PerformantRendering\cw24-Bluhzies\application\src\GAMR3531.cpp,420,484652,0.000603,2397,202,101,1287,65.755986

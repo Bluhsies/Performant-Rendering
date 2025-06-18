@@ -1,0 +1,10 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+UIBegin,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,312,817717,0.003098,1017,804,250,8106,932.544222
+CloseShipCircles,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,394,266579,0.001010,793,336,90,7274,343.630555
+AsteriodBelt::onRender,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,304,9851533911,37.318687,1017,9686857,7166752,202999276,7054379.176945
+Run,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\DemonRenderer\src\core\application.cpp,25,16076552925,60.899739,1017,15807819,8113381,203768292,8445697.331282
+FourthQuadDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,326,348339,0.001320,793,439,370,961,71.328324
+TenthBottomCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,353,173994,0.000659,793,219,170,6973,244.755410
+SeventhTopCircleDraw,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,371,153677,0.000582,793,193,151,601,33.766167
+CloseTargetQuads,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,402,764261,0.002895,793,963,681,42355,1959.670118
+AsteriodBelt::onUpdate,C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 3\Performant Rendering in C++\cw24-Bluhzies\application\src\GAMR3531.cpp,418,5235750828,19.833596,1017,5148230,90,9310392,2750608.930055
